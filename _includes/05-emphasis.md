@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+*skills*
+
+**Python (pd, np, sklearn, tensorflow), SQL, R, Tableau, Matlab, PowerPoint, Excel (Pivot Table)**
+
